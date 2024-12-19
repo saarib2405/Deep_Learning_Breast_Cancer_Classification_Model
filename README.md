@@ -1,6 +1,6 @@
-## Breast Cancer Classification using Neural Networks
+# Breast Cancer Classification using Neural Networks
 
-# Dependencies
+## Dependencies
 tensorflow==2.8.0
 scikit-learn==1.0.2
 numpy==1.21.0
@@ -13,15 +13,15 @@ Neural network implementation for breast cancer classification using TensorFlow 
 ## Installation
 
 bash
-# Clone repository
+## Clone repository
 git clone https://github.comsaarib2405/Deep_Learning_Breast_Cancer_Classification_Model.git
 cd breast-cancer-classifier
 
-# Create virtual environment
+## Create virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
 
